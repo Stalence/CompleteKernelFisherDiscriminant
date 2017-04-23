@@ -1,0 +1,10 @@
+1)Other dataset.
+2)Fix the number of irregular features, can only get 6-10.
+(Figure out the c-1 bullshit.)
+3)Vary kernel dimensions, monitor success.
+4)Vary sigma, monitor success.
+
+
+
+
+CKFD: with half(?-whatever fraction it is) samples get same(or better) classification rate with KNN on the test set.
